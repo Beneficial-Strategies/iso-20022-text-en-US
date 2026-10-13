@@ -1,5 +1,0 @@
-{
- "BusinessApplicationHeader8/Signature": "Contains the digital signature of the Business Entity authorized to sign this Business Message.",
- "BusinessApplicationHeaderV04/Signature": "Contains the digital signature of the Business Entity authorized to sign this Business Message.",
- "Party51Choice/OrganisationIdentification": "Identification of a person or an organization."
-}

@@ -1,0 +1,105 @@
+{
+ "_note": "American English as rewrite rules over the ISO English of the hub. Applied automatically to every name, definition and format text; an entry in types/ wins over a rule. Spelling first, then a few term swaps (each listed so it can be reviewed or removed). Ported from the rules the Iso20022Headless library used to carry (variants.ts).",
+ "applyTo": [
+  "names",
+  "texts",
+  "tools"
+ ],
+ "stems": [
+  {
+   "from": "authoris",
+   "to": "authoriz",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "preauthoris",
+   "to": "preauthoriz",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "organis",
+   "to": "organiz",
+   "suffixes": "ational|ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "reorganis",
+   "to": "reorganiz",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "initialis",
+   "to": "initializ",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "reinitialis",
+   "to": "reinitializ",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "desynchronis",
+   "to": "desynchroniz",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "synchronis",
+   "to": "synchroniz",
+   "suffixes": "ation|ations|e|ed|es|ing"
+  },
+  {
+   "from": "recognis",
+   "to": "recogniz",
+   "suffixes": "ation|ations|e|ed|es|ing|able"
+  },
+  {
+   "from": "unrecognis",
+   "to": "unrecogniz",
+   "suffixes": "ed|able"
+  },
+  {
+   "from": "motoris",
+   "to": "motoriz",
+   "suffixes": "ed|ation"
+  },
+  {
+   "from": "digitis",
+   "to": "digitiz",
+   "suffixes": "ed|ation|e|es|ing"
+  }
+ ],
+ "words": {
+  "cheque": "check",
+  "cheques": "checks",
+  "cypher": "cipher",
+  "cyphers": "ciphers",
+  "acknowledgement": "acknowledgment",
+  "acknowledgements": "acknowledgments",
+  "cancelled": "canceled",
+  "cancelling": "canceling",
+  "fulfil": "fulfill",
+  "fulfilment": "fulfillment",
+  "enquiry": "inquiry",
+  "enquiries": "inquiries",
+  "enquiring": "inquiring",
+  "storey": "story",
+  "storeys": "stories"
+ },
+ "phrases": [
+  {
+   "phrase": "Town Name",
+   "to": "City Name"
+  },
+  {
+   "phrase": "Town Location Name",
+   "to": "City Location Name"
+  },
+  {
+   "phrase": "Post Code",
+   "to": "Postal Code"
+  },
+  {
+   "phrase": "Country Sub Division",
+   "to": "State or Province"
+  }
+ ]
+}
