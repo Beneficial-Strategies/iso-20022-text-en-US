@@ -1,0 +1,8 @@
+{
+  "isoType": "AddressType3Choice",
+  "name": "American Address Type",
+  "isoElements": {
+    "Code": { "name": "Normal" },
+    "Proprietary": { "name": "Oddball" }
+  }
+}
