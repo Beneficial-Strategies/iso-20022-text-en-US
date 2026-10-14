@@ -31,6 +31,16 @@ through Cloudflare Workers Builds: the `main` branch deploys, and every other br
 [hub](https://github.com/Beneficial-Strategies/iso-20022-text) (`HUB_REF` and `HUB_REPO` choose another version of it, for a preview) and lays this repository
 over it, so a change in the hub reaches this host the next time this repository builds.
 
+## Help keep this text maintained
+
+This text is free, and it is only as good as the people who read it. Most of it was drafted with AI tools and **has not been read by a person who works with ISO 20022 in English (US)**. If you do, you can help in minutes:
+
+* Say how a word should be translated: **[Glossary entry](https://github.com/Beneficial-Strategies/iso-20022-text-en-US/issues/new?template=glossary.yml)** ("when ISO 20022 says `Cheque` it should say `Check`"). The form asks which **variety** (general, or an industry or institution) uses it, so differences by region are captured, and a variety that comes up often can get a text of its own.
+* Correct a definition: **[Wrong, unclear or missing translation](https://github.com/Beneficial-Strategies/iso-20022-text-en-US/issues/new?template=definition.yml)**.
+* Take over the care of the language, a variety or a business area: **[Offer to review or maintain](https://github.com/Beneficial-Strategies/iso-20022-text-en-US/issues/new?template=volunteer.yml)**. Co-maintainers and sponsors change what this text can become: contact support@beneficialstrategies.com.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how issues and pull requests work here.
+
 ## Status, license and warranty
 
 This text is provided **free of charge and as is**, under the MIT license (see `LICENSE`), without warranty of any kind. We make our best-faith
